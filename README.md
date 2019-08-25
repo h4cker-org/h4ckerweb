@@ -1,12 +1,6 @@
 ## H4cker Website
 
-This is a test for my educational purposes only.
+Cybersecurity, Ethical Hacking/Penetration Testing,  Exploit Development, Malware Reverse Engineering, Digital Forensics and Incident Response Resources by Omar Santos.
 
-So what is the difference between:
 
-# Header 1
-sdfkdshsdklhjfsdfsd
-fsdfsdfsdfsd
-
-## Header 2
-sfsdfsdfsdfsd
+Visit: https://h4cker.org/
